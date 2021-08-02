@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="vodonesia.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vodonesia.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" fill="#fff" />][website]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -36,15 +36,6 @@ Here are some ideas to get you started:
 
 ### final assignment
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochamadyudi&layout=compact)](https://github.com/mochamadyudi/skripsinew)
-
-## Recent Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2859](https://github.com/webpack/webpack-cli/pull/2859) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-2. 🗣 Commented on [#2832](https://github.com/webpack/webpack-cli/issues/2832) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-3. 🎉 Merged PR [#46](https://github.com/hoppscotch/hopp-doc-gen/pull/46) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-4. 🎉 Merged PR [#47](https://github.com/hoppscotch/hopp-doc-gen/pull/47) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-5. 🎉 Merged PR [#52](https://github.com/hoppscotch/hopp-doc-gen/pull/52) in [hoppscotch/hopp-doc-gen](https://github.com/hoppscotch/hopp-doc-gen)
-<!--END_SECTION:activity-->
 
 [website]: https://vodonesia.id
 [facebook]: https://facebook.com/mochammadyudi
