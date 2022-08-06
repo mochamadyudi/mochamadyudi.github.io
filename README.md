@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+[<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>SemVer Light</title><foreignObject width="100%" height="100%"><div xmlns="http://www.w3.org/1999/xhtml"><style>:root[data-color-mode="light"] {img { display: block; }}@media (prefers-color-scheme: dark) {:root[data-color-mode="dark"]{img { display: none; }}}</style><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></div><foreignObject></svg>][website]
+
 [<img align="left" alt="vodonesia.id" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" fill="#fff" />][website]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -36,10 +38,8 @@ Here are some ideas to get you started:
 
 ### final assignment
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochamadyudi&layout=compact)](https://github.com/mochamadyudi/skripsinew)
-
 ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
 ![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
-
 [website]: https://vodonesia.id
 [facebook]: https://facebook.com/mochammadyudi
 [linkedin]: https://linkedin.com/in/mochamadyudi
