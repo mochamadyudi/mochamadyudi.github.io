@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### Stats
-![mochamad's GitHub stats](https://github-readme-stats.vercel.app/api/?username=mochamadyudi&locale=en&include_all_commits=true&show_icons=true&theme=radical)
+![mochamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mochamadyudi&show_owner=true&show_icons=false&include_all_commits=true&theme=nord)
 
 ### final assignment
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mochamadyudi&layout=compact)](https://github.com/mochamadyudi/skripsinew)
